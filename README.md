@@ -13,7 +13,7 @@
   chapter01_네트워크의 첫걸음.md
 
   # Commit 양식
-  git commit -m "[1장] 네트워크의 첫걸음"
+  git commit -m "[1장] 네트워크 첫걸음"
   ```
 
 ### 🧑‍💻 참여자
