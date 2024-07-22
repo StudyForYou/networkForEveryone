@@ -14,6 +14,7 @@
 
 ### 계층 설명
 ![OSI & TCP/IP](images/OSI,TCP_IP.png)
+
 7계층 - 응용계층 - Application Layer
 - 사용자와 애플리케이션 간의 소통(ex. 이메일 보내기, 웹 사이트 조회)
 
